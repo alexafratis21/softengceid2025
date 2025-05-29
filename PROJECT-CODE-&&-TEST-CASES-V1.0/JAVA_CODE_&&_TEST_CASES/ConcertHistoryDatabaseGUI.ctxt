@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ConcertHistoryDatabaseGUI
+comment1.params=
+comment1.target=ConcertHistoryDatabaseGUI()
+comment10.params=venueName
+comment10.target=void\ searchConcertDatesByVenue(java.lang.String)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ loadConcertHistoryData()
+comment3.params=
+comment3.target=void\ insertConcertHistoryData()
+comment4.params=
+comment4.target=void\ updateConcertHistoryData()
+comment5.params=
+comment5.target=void\ deleteConcertHistoryData()
+comment6.params=
+comment6.target=void\ showSearchDialog()
+comment7.params=
+comment7.target=void\ showSearchArtistsByTickets()
+comment8.params=minTickets\ maxTickets
+comment8.target=void\ searchArtistsByTickets(int,\ int)
+comment9.params=
+comment9.target=void\ showSearchConcertDatesByVenue()
+numComments=12

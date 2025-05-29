@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArtistDatabaseGUITest
+comment1.params=
+comment1.target=void\ testGUIConstructionLoadsData()
+comment2.params=
+comment2.target=void\ testButtonsExist()
+comment3.params=container\ text
+comment3.target=boolean\ findButton(java.awt.Container,\ java.lang.String)
+comment4.params=container
+comment4.target=javax.swing.JTable\ findJTable(java.awt.Container)
+numComments=5

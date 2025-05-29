@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ProducerDatabaseGUI
+comment1.params=
+comment1.target=ProducerDatabaseGUI()
+comment2.params=
+comment2.target=void\ loadProducerData()
+comment3.params=
+comment3.target=void\ insertProducerData()
+comment4.params=
+comment4.target=void\ updateProducerData()
+comment5.params=
+comment5.target=void\ deleteProducerData()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

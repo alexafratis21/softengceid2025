@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=VenueDatabaseGUI
+comment1.params=
+comment1.target=VenueDatabaseGUI()
+comment2.params=
+comment2.target=void\ loadVenueData()
+comment3.params=
+comment3.target=void\ showVenueScores()
+comment4.params=
+comment4.target=void\ insertVenueData()
+comment5.params=
+comment5.target=void\ updateVenueData()
+comment6.params=
+comment6.target=void\ deleteVenueData()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

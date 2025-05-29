@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DatabaseGUI
+comment1.params=
+comment1.target=DatabaseGUI()
+comment2.params=
+comment2.target=javax.swing.JPanel\ getContentPanel()
+comment3.params=tableName
+comment3.target=void\ loadTableGUI(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
